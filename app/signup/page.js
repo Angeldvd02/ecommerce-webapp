@@ -1,11 +1,9 @@
-import React from "react";
+"use client";
+import { useEffect, useState } from "react";
+import Card from "@/components/Card";
 
 const Signup = () => {
-  return (
-    <div>
-      <h1>Signup</h1>
-    </div>
-  );
+  return <div></div>;
 };
 
 export default Signup;
